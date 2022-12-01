@@ -21,7 +21,7 @@ fn main() {
         tickets_sold: 2500,
     };
 
-    println!("--- TICKETRUSTER ---")
+    println!("--- TICKETRUSTER ---");
     println!("ID: {:?}", event.id);
     println!("Performer: {:?}", event.performer);
     println!("Date and Time: {:?}", event.datetime);
